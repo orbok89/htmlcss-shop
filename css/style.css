@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+      margin: auto;
+      width: 80%;
+
+  }
+  /* fine generali */
+  /* ridimensionamento immagini */
+  .piccolo {
+    width: auto;
+    height: 400px;
+  }
+  /* fine ridimensioanemto */
+  }
+  /* centramento immagini */
+  .dimensione{
+      display: inline-block;
+  }
+  /* fine centramento */
